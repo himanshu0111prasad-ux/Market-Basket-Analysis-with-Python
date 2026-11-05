@@ -37,7 +37,7 @@ Understanding customer purchasing habits is vital for cross-selling, product pla
 * **Data Handling:** Pandas, NumPy
 * **Machine Learning & Clustering:** Scikit-Learn (K-Means, Silhouette Analysis)
 * **Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Google Colab
+* **Environment:** Jupyter Notebook
 
 ---
 
