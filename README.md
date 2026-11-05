@@ -41,6 +41,6 @@ Understanding customer purchasing habits is vital for cross-selling, product pla
 
 ---
 
-## 📁 Repository Structure
+## Video link 
 
 https://drive.google.com/file/d/1jhStbZfXAFd7zC8Of3RqJ09MhapoBGZV/view?usp=sharing
